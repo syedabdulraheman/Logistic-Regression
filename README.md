@@ -1,2 +1,2 @@
 # Logistic-Regression
-I have built a model on Logisti regression using a dataset 
+I have built a model on Logisti regression using a dataset - logit classification.csv
